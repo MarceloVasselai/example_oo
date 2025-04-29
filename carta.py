@@ -17,7 +17,7 @@ class Baralho:
         return self._cards[position]
 
 baralho = Baralho()
-# Verificar o número de cartas no baralho
+# Verificar o número de cartas no baralho 
 print(f"Número de cartas no baralho: {len(baralho)}")
 
 # Acessar uma carta específica (por exemplo, a primeira carta)
